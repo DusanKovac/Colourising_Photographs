@@ -17,4 +17,4 @@ Once all models are trained, you may extract for models 1 and 2 the weights from
 Running the Test files will, currently, colourise photos from /example_input/p_(512/256) and if you want you may add more photographs. The current ones are downloaded from British Columbian Web archives.
 
 # NOTE:
-If you ever want to retrain the files, you must delete all epoch files in outputs/ModelX/epoch* . Or the OS package will through out an error.
+If you ever want to retrain the files, you must delete all epoch files in outputs/ModelX/epoch* . Or the OS package will throw out an error.
